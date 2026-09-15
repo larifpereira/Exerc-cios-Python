@@ -59,7 +59,7 @@ print(f"A quantidade de vezes que o {numx} cabe no {num} é {res} e sobra {sobra
 print(abs(54-57))
 
 # Calcular: menor valor entre 29, 31 e 34
-print(min(29,31,34)
+print(min(29,31,34))
 
 #Calcular: menor valor entre 12, 1 e 64
 print(min(12,1,64))
