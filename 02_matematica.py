@@ -20,5 +20,3 @@ print ((((5**2)-1)*3)+6)
 
 # Calcular 8 elevado a 2 mais 4 divido por 2 menos 5
 print ((((8**2)+4)/2)-5)
-
-
