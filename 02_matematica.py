@@ -34,23 +34,33 @@ v2 = 73
 div = float((v1/v2))
 print(f"{v1} dividido por {2} é: {div}")
 
-# Calcular a média de 3 notas (solicitar)
+# Calcular: média de 3 notas (solicitar)
 n1 = float(input("Digite o valor da 1ª prova: "))
 n2 = float(input("Digite o valor da 2ª prova: "))
 n3 = float(input("Digite o valor da 3ª prova: "))
 media = float((n1+n2+n3)/3)
 print(f"Sua média é de {media}")
 
-# Quantas vezes o número 73 cabe no 403 (inteiro)
+# Calcular: quantas vezes o número 73 cabe no 403 (inteiro)
 numx = 73
 num = 403
 res = int(403/73)
 sobra = int(403%73)
 print(f"A quantidade de vezes que o {numx} cabe no {num} é {res} e sobra {sobra}")
 
-# Quantas vezes o número 73 cabe no 403 (decimal)
+# Calcular: quantas vezes o número 73 cabe no 403 (decimal)
 numx = 73
 num = 403
 res = float(403/73)
 sobra = float(403%73)
 print(f"A quantidade de vezes que o {numx} cabe no {num} é {res} e sobra {sobra}")
+
+# Calcular: valor absoluto da diferença entre 54 e 57
+print(abs(54-57))
+
+# Calcular: menor valor entre 29, 31 e 34
+print(min(29,31,34)
+
+#Calcular: menor valor entre 12, 1 e 64
+print(min(12,1,64))
+
