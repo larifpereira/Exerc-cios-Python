@@ -1,5 +1,5 @@
 # Meu "Olá Mundo!"
-print("Olá Mundo!)
+print("Olá, Mundo!")
 
 # Meu primeiro código
 nome = input("Digite seu nome: ")
