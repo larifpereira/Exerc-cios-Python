@@ -64,3 +64,13 @@ print(min(29,31,34))
 #Calcular: menor valor entre 12, 1 e 64
 print(min(12,1,64))
 
+#Calcular: somatório dos cinco primeiros números interios e positivos
+valores = ("1 + 2 + 3 + 4 + 5")
+res = (1+2+3+4+5)
+print("A soma dos números: ({}) resulta em {}.".format(valores,res))
+
+#Calcular: atribuindo a = 3 e b = 4, descubra o valor de c: a vezes a mais b vezes b
+a = 3
+b = 4
+c = ((a*a)+(b*b))
+print(f"C = {c}")
