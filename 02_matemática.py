@@ -1,19 +1,19 @@
-# Calcular: 2 mais 3 vezes 3 
+# Calcular: 2 + 3 * 3 
 print(2 + (3*3))
 
-# Calcular 4 elevado a 2, dividido por 3
+# Calcular 4 elevado a 2 / 3
 print ((4**2)/3)
 
-# Calcular: 9 elevado a 2 mais 2 vezes 6 menos 1
+# Calcular: 9 elevado a 2 + 2 * 6 - 1
 print ((((9**2)+2)*6)-1)
 
-# Calcular 7 elevado a 2 mais 3 vezes 4 menos 2
+# Calcular 7 elevado a 2 + 3 * 4 - 2
 print ((((7**2)+3)*4)-2)
 
-# Calcular: 5 elevado a 2 menos 1 vezes 3 mais 6
+# Calcular: 5 elevado a 2 - 1 * 3 + 6
 print ((((5**2)-1)*3)+6)
 
-# Calcular: 8 elevado a 2 mais 4 divido por 2 menos 5
+# Calcular: 8 elevado a 2 + 4 / 2 - 5
 print ((((8**2)+4)/2)-5)
 
 #Calcular: número elevado a potência (solicitar)
@@ -61,16 +61,16 @@ print(abs(54-57))
 # Calcular: menor valor entre 29, 31 e 34
 print(min(29,31,34))
 
-#Calcular: menor valor entre 12, 1 e 64
+# Calcular: menor valor entre 12, 1 e 64
 print(min(12,1,64))
 
-#Calcular: somatório dos cinco primeiros números interios e positivos
+# Calcular: somatório dos cinco primeiros números interios e positivos
 valores = ("1 + 2 + 3 + 4 + 5")
 res = (1+2+3+4+5)
 print("A soma dos números: ({}) resulta em {}.".format(valores,res))
 
-#Calcular: atribuindo a = 3 e b = 4, descubra o valor de c: a vezes a mais b vezes b
+#Calcular: atribuindo a = 3 e b = 4, descubra o valor de c = a * a + b * b
 a = 3
 b = 4
-c = ((a*a)+(b*b))
+c = ((a*a) + (b*b))
 print(f"C = {c}")
